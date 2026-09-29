@@ -1,0 +1,20 @@
+{
+  "name": "Lokalizator opon",
+  "short_name": "Lokalizator opon",
+  "start_url": "/lokalizator-opon/",
+  "scope": "/lokalizator-opon/",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#111827",
+  "lang": "pl",
+  "id": "/lokalizator-opon/",
+  "description": "Szybkie wyszukiwanie i zarządzanie lokalizacją opon.",
+  "icons": [
+    {
+      "src": "favicon.png?v=4",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
